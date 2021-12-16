@@ -6,11 +6,11 @@ html {
   background-color: #e5e5e5;
 }
 
-.console--item {
+.console__item {
   margin-bottom: 15px;
 }
 
-.console--item--label {
+.console__item__label  {
   display: inline-block;
   width: 150px;
 }
